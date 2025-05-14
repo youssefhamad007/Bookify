@@ -95,10 +95,10 @@ export const HeroParallax = ({ products }) => {
 export const Header = () => (
   <div className="max-w-7xl mx-auto py-20 md:py-40 px-4">
     <h1 className="text-5xl md:text-7xl font-bold text-white">
-    Own the Street. <br /> Wear the Vibe.
+    Find Your Story. <br /> Live Your Chapter.
     </h1>
     <p className="max-w-2xl text-base md:text-xl mt-8 text-white">
-    From bold sneakers to timeless classics — your journey starts with every step. Make it count.
+    From quiet corners to bold ideas — your escape starts with a single read. Make it yours.
     </p>
   </div>
 );
